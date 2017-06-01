@@ -283,7 +283,9 @@
           "_name": "content4",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-title .mbr-header__text": {
               "color": "#fac51c"
@@ -298,7 +300,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/q-store-2000x1293.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
