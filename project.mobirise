@@ -81,6 +81,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "header1-2",
           "_params": {
             "parallax": true,
@@ -103,12 +108,7 @@
           },
           "title": "WELCOME TO SHAQILA HANDMADE",
           "text": "Ini prolognya apa, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.instagram.com/shaqila_handmade/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOW OUR INSTAGRAM</a>  ",
-          "_styles": {
-            "H1": {
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.instagram.com/shaqila_handmade/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOW OUR INSTAGRAM</a>  "
         },
         {
           "_tags": [
@@ -213,7 +213,7 @@
           },
           "title3": "DOLL",
           "caption3": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -281,6 +281,17 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#fac51c"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#f7da64"
+            }
+          },
           "_anchor": "content4-4",
           "_params": {
             "paddingTop": 3,
@@ -427,24 +438,18 @@
           },
           "title6": "AMAZE YOUR CUSTOM!",
           "caption6": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#fac51c"
-            },
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#f7da64"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "social-buttons2-5",
           "_params": {
             "paddingTop": "1",
@@ -459,12 +464,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/shaqila_handmade/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_styles": {
-            ".mbr-header__text": {
-              "text-align": "left"
-            }
-          }
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/shaqila_handmade/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
