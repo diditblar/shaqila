@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-06-01_0710",
+    "name": "shaqila project",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -8,8 +8,13 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -83,7 +88,11 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#fac51c"
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#cccccc",
+              "font-size": "20px"
             }
           },
           "_anchor": "header1-2",
@@ -107,7 +116,7 @@
             "showArrow": true
           },
           "title": "WELCOME TO SHAQILA HANDMADE",
-          "text": "Ini prolognya apa, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>",
+          "text": "A home industry offers many kinds of handmade accessories and gifts. Sash, party stuffs, and graduation doll is our specialty. Get your cheapest one here! Be Free to Ask! We always serve our best!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.instagram.com/shaqila_handmade/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOW OUR INSTAGRAM</a>  "
         },
         {
@@ -164,7 +173,7 @@
             }
           },
           "title1": "SASH",
-          "caption1": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad &nbsp;sadasdasd d sa sd asd sad sd&nbsp;",
+          "caption1": "Menyediakan selempang custom dengan banyak pilihan warna, bentuk, dan ukuran.<br><b>CUSTOM YOUR OWN!</b>&nbsp;<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -188,7 +197,7 @@
             }
           },
           "title2": "PARTY STUFF",
-          "caption2": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
+          "caption2": "Menyediakan perlengkapan pesta. Mulai dari balon latex, balon foil, bunting flag, topi ultah, mahkota, dll.<br><b>CREATE YOUR OWN DECORATION!</b>&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -211,9 +220,9 @@
               "size": 0
             }
           },
-          "title3": "DOLL",
-          "caption3": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title3": "GRADUATION DOLL",
+          "caption3": "Menyediakan boneka wisuda dengan berbagai karakter (SOON)<br><b>CHOOSE YOUR OWN!</b>&nbsp;<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features1-3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -339,7 +348,7 @@
             }
           },
           "title1": "SPEED!!",
-          "caption1": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
+          "caption1": "Dipastikan sesuai dengan target pengerjaan <br>Sash: normal 5-7 hari, kilat 1-2 hari<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -358,8 +367,8 @@
               "size": 0
             }
           },
-          "title2": "ARTISTIC",
-          "caption2": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br><br>",
+          "title2": "AMIABLE",
+          "caption2": "Service politely. Owner dan admin yang ramah<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -379,7 +388,7 @@
             }
           },
           "title3": "QUALITY",
-          "caption3": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
+          "caption3": "Mengutamakan kualitas maerial dan proses pembuatan<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -399,7 +408,7 @@
             }
           },
           "title4": "IMPROVMENT",
-          "caption4": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd<br>",
+          "caption4": "Mengikuti trend dan Up to Date<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -419,7 +428,7 @@
             }
           },
           "title5": "LOWPRICES",
-          "caption5": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as&nbsp;<br>",
+          "caption5": "Murah tapi nggak murahan. Prove it!<br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -439,7 +448,7 @@
             }
           },
           "title6": "AMAZE YOUR CUSTOM!",
-          "caption6": "Ini penjelasan nya, aku nggak tau, jadi tak isi ngawur dulu ya, lek wes ada baru ngomong o.<br>sadsa sad sad sad asd sad as sad  sadasdasd d sa sd asd sad sd&nbsp;<br>",
+          "caption6": "Kalian bisa bebas customize pesanan kalian. Chat Admin Yuk di Contact yang tersedia!<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
@@ -447,12 +456,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "social-buttons2-5",
+          "_anchor": "social-buttons2-m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -461,7 +465,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#f0f0f0",
             "bgColorRadio": true,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
@@ -472,8 +476,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-8",
+          "_name": "contacts2",
+          "_anchor": "contacts2-o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -484,29 +488,16 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "images/footer-logo.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "shopping-bag",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "newWindow": false,
-              "color": "#00a885",
-              "active": true
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Jl. Pahlawan Sunaryo No.18, Kutorejo, Pandaan, Pasuruan, Jawa Timur 67156\nshaqila",
+              "placeId": "ChIJq37V7I3Z1y0Rum6Su55dyJU",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<b>ADDRESS</b><br>Jalan Raya Kasri No. 146, Pandaan, Sumberejo, Pandaan<br>Pasuruan, Jawa Timur 67156<br>",
-          "text2": "<b>CONTACTS</b><br>Email: mayliaelfina@gmail.com<br>Phone: +62 8502 20022 223<br>Line: @shaqila_handmade<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>&nbsp;</b></p><ul class=\"mbr-contacts__list\"><li>Copyright (c) 2017 <b>diditblar</b></li><li><i>All rights reserved</i></li></ul>"
+          "text1": "<strong>ADDRESS</strong><br>Jalan Raya Kasri No. 146, Pandaan, Sumberejo, Pandaan<br>Pasuruan, Jawa Timur 67156<br><br>\n<strong>CONTACTS</strong><br>Email: mayliaelfina@gmail.com<br>Phone: +62 8502 20022 223<br>Line: @shaqila_handmade<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Copyright (c) 2017 diditblar</li><li>All rights reserved</li></ul>"
         }
       ]
     },
